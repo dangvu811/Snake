@@ -1,0 +1,19 @@
+F:\Visual Studio\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+F:\Visual Studio\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+F:\Visual Studio\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.Form1.resources
+F:\Visual Studio\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.Properties.Resources.resources
+F:\Visual Studio\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+F:\Visual Studio\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.exe
+F:\Visual Studio\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.pdb
+F:\Visual Studio\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+F:\WindowsFormsApplication8\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+F:\WindowsFormsApplication8\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+F:\WindowsFormsApplication8\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+F:\WindowsFormsApplication8\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.Form1.resources
+F:\WindowsFormsApplication8\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.Properties.Resources.resources
+F:\WindowsFormsApplication8\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication8\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.exe
+F:\WindowsFormsApplication8\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.pdb
+C:\Users\VuThieu\Desktop\WindowsFormsApplication8 (2)\WindowsFormsApplication8\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\VuThieu\Desktop\WindowsFormsApplication8 (2)\WindowsFormsApplication8\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.exe
+C:\Users\VuThieu\Desktop\WindowsFormsApplication8 (2)\WindowsFormsApplication8\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.pdb
